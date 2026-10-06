@@ -1,0 +1,24 @@
+{
+  "name": "projeto-react-router",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mariasantos1997/projeto-react-router#readme",
+  "bugs": {
+    "url": "https://github.com/mariasantos1997/projeto-react-router/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariasantos1997/projeto-react-router.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "vite": "^8.3.3"
+  }
+}
